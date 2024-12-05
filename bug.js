@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error related to the `expo prebuild` command.  The error message was vague and didn't pinpoint the exact cause. My project uses React Navigation and AsyncStorage. I suspect there might be some incompatibility or a missing dependency causing the issue. The error message is similar to `Error: Something went wrong during prebuild`.
